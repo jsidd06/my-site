@@ -1,9 +1,13 @@
 body {
   color: #40514E;
-  
+
   text-align: center;
   font-size: 200%;
-  
+
+}
+html,body {
+  padding: 0;
+  margin: 0;
 }
 
 h1 {
@@ -96,7 +100,7 @@ hr {
 }
 
 .contact-me {
-  width: 90%;
+  width: 50%;
   margin: 100px auto 100px auto;
   line-height: 2;
 }

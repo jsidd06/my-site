@@ -1,8 +1,9 @@
 body {
   color: #40514E;
-  margin: 25;
+  
   text-align: center;
   font-size: 200%;
+  
 }
 
 h1 {
@@ -46,7 +47,7 @@ h3 {
   text-decoration: underline;
 }
 .intro {
-  width: 50%;
+  width: 90%;
   margin: auto;
 }
 
@@ -81,7 +82,7 @@ hr {
 }
 
 .skill-row {
-  width: 50%;
+  width: 90%;
   margin: 100px auto 100px auto;
 
 }
@@ -95,7 +96,7 @@ hr {
 }
 
 .contact-me {
-  width: 50%;
+  width: 90%;
   margin: 100px auto 100px auto;
   line-height: 2;
 }
